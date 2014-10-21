@@ -1,10 +1,10 @@
 html,body {
   margin: 0;
   padding: 0;
-  background-color: green;
+  
 }
 body {
-  background-color: green;
+  background-color: white;
   font-family: 'Georgia', serif;
   font-weight: 400;
   font-size: 18px;
