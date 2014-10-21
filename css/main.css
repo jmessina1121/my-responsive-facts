@@ -37,7 +37,7 @@ display:none
         }
 }
 
-@media (max-width: 600px){
+@media (max-width: 300px){
     body{
     background-color:green;
         }
@@ -93,6 +93,8 @@ display:none
         }
     .p6{
     padding-left: 2em;
+    display: block;
+
         }
 }
 
