@@ -11,9 +11,12 @@ body {
   line-height: 1.45;
   color: black;
 }
+@media (min-width: 630px){
 
 .p1 {
 padding-left: 2em;
+}
+
 }
 
 .p2 {
