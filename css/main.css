@@ -12,7 +12,7 @@ body {
   color: black;
 }
 
-@media (min-width: 0px , max-width: 300px){
+@media (min-width: 0px){
     body{
     background-color: red;
         }
@@ -24,7 +24,7 @@ body {
 
 }
 
-@media (min-width: 300px, max-width: 600px){
+@media (min-width: 300px){
     body{
     background-color:green;
     }
