@@ -24,7 +24,7 @@ body {
 
 }
 
-@media (in-width: 300px){
+@media (min-width: 300px, max-width: 600px){
     body{
     background-color:green;
     }
