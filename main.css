@@ -1,0 +1,142 @@
+html,body {
+  margin: 0;
+  padding: 0;
+}
+body {
+  background-color: white;
+  font-family: 'Georgia', serif;
+  font-weight: 400;
+  font-size: 18px;
+  line-height: 1.45;
+  color: black;
+}
+
+p {
+margin-bottom: 1.3em;
+font-size: 18px;
+margin-top: 1.3em;
+
+}
+
+.p1 {
+float: left;
+max-width: 45%;
+margin-bottom: 1.3em;
+padding: 1.3em;
+}
+
+.p2{
+float:right;
+max-width:45%;
+padding: 1.3em;
+margin-bottom: 1.3em;
+
+}
+
+.image1 {
+float: right;
+max-width: 45%;
+margin-bottom: 1.3em;
+margin-top: 5.0em;
+}
+
+.image2 {
+float: left;
+max-width: 45%;
+margin-bottom: 1.3em;
+margin-top: 7.0em;
+}
+
+.imgage3 {
+padding: 1.3em;
+max-width:50%:
+}
+
+h1, h2, h3, h4 {
+  margin: 1.414em 0 0.5em;
+  font-weight: inherit;
+  line-height: 1.2;
+  font-family: apple chancery}
+
+h1 {
+  margin-top: 0;
+  font-size: 2.074em;
+  
+}
+
+h2 {font-size: 1.728em;
+font-family: apple chancery}
+
+h3 {font-size: 1.44em;}
+
+h4 {font-size: 1.2em;}
+
+small, .small {font-size: 0.833em;}
+
+.container {
+  max-width: 700px;
+  margin: 0 auto;
+  
+  }
+
+
+
+img {
+  margin: 0 auto;
+  display: block;
+  max-width: 100%;
+  float: right;
+  
+}
+
+
+.class{
+float:Left;
+margin-top: 5em}
+
+a {
+  color: black;
+}
+a:hover {
+  color: #615050;
+}
+
+.header {
+  background: #615050;
+  padding-top: 1em;
+  padding-bottom: 1em;
+  margin-bottom: 1em;
+  color: white;
+  
+}
+
+.h3
+{
+float: right;
+}
+
+table {
+  table-layout: fixed;
+  margin-top: 2em;
+  margin-bottom: 5em;
+  max-width:50%;
+  
+}
+th,td {
+  padding: .75em .5em;
+  border-bottom: 1px solid #ddd;
+  background: #AD9A6F;
+}
+th {
+  text-align: right;
+  font: white;
+  background: #AD9A6F;
+    border-right: 2px solid #ddd;
+}
+tr:first-child th, tr:first-child td {
+  border-top: 1px solid #ddd;
+}
+.pull-right {
+  float: right;
+  max-width: 300px;
+}
