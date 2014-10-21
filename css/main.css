@@ -11,14 +11,30 @@ body {
   line-height: 1.45;
   color: black;
 }
-
+.p1{
+display:none
+}
+.p2{
+display:none
+}
+.p3{
+display:none
+}
+.p4{
+display:none
+}
+.p5{
+display:none
+}
+.p6{
+display:none
+}
 @media (max-width: 0px){
     body{
     background-color: red;
         }
     .p1 {
     padding-left: 2em;
-    display: none;
         }
 }
 
@@ -28,7 +44,6 @@ body {
         }
     .p2 {
     padding-left: 2em;
-    display: none;
     }
 }
 
@@ -38,7 +53,6 @@ body {
         }
     .p3{
     padding-left: 2em;
-        display: none;
 
         }
 }
@@ -46,12 +60,10 @@ body {
 @media (max-width: 800px){
     body{
     background-color: blue;
-        display: none;
 
         }
     .p4{
     padding-left: 2em;
-        display: none;
 
         }   
 }
