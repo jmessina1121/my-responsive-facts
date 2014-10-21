@@ -18,6 +18,7 @@ body {
         }
     .p1 {
     padding-left: 2em;
+    display: block;
         }
 }
 
@@ -27,6 +28,7 @@ body {
         }
     .p2 {
     padding-left: 2em;
+    display: block;
     }
 }
 
@@ -36,15 +38,21 @@ body {
         }
     .p3{
     padding-left: 2em;
+        display: block;
+
         }
 }
 
 @media (max-width: 800px){
     body{
     background-color: blue;
+        display: block;
+
         }
     .p4{
     padding-left: 2em;
+        display: block;
+
         }   
 }
 
@@ -54,12 +62,16 @@ body {
         }
     .p5{
     padding-left: 2em;
+        display: block;
+
         }
 }
 
 @media (max-width: 1300px){
     body{
     background-color: grey;
+        display: block;
+
         }
     .p6{
     padding-left: 2em;
