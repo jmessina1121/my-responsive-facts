@@ -12,7 +12,7 @@ body {
   color: black;
 }
 
-@media (max-width: 630px){
+@media (min-width: 630px){
     body{
     background-color: red;
         }
@@ -24,9 +24,9 @@ body {
 
 }
 
-@media (max-width: 900px){
+@media (in-width: 300px){
     body{
-    background-color: green;
+    background-color:green;
     }
     .p2 {
     padding-left: 2em;
