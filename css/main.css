@@ -18,7 +18,7 @@ body {
         }
     .p1 {
     padding-left: 2em;
-    display: block;
+    display: none;
         }
 }
 
@@ -28,7 +28,7 @@ body {
         }
     .p2 {
     padding-left: 2em;
-    display: block;
+    display: none;
     }
 }
 
@@ -38,7 +38,7 @@ body {
         }
     .p3{
     padding-left: 2em;
-        display: block;
+        display: none;
 
         }
 }
@@ -46,17 +46,17 @@ body {
 @media (max-width: 800px){
     body{
     background-color: blue;
-        display: block;
+        display: none;
 
         }
     .p4{
     padding-left: 2em;
-        display: block;
+        display: none;
 
         }   
 }
 
-@media (max-width: 1000px) and (min-width: 800px;){
+@media (max-width: 1000px)(min-width: 800px;){
     body{
     background-color: brown;
         }
