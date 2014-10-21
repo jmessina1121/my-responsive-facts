@@ -13,19 +13,25 @@ body {
 }
 
 @media (max-width: 630px){
-body {
-background-color: red;
-}
-.p1 {
-padding-left: 2em;
-}
+    body{
+    background-color: red;
+        }
+
+
+    .p1 {
+    padding-left: 2em;
+        }
 
 }
 
-.p2 {
-padding-left: 2em;
+@media (max-width: 900px){
+    body{
+    background-color: green;
+    }
+    .p2 {
+    padding-left: 2em;
+    }
 }
-
 .p3{
 padding-left: 2em;
 }
