@@ -16,37 +16,54 @@ body {
     body{
     background-color: red;
         }
-
-
     .p1 {
     padding-left: 2em;
         }
-
 }
 
 @media (max-width: 300px){
     body{
     background-color:green;
-    }
+        }
     .p2 {
     padding-left: 2em;
     }
 }
-.p3{
-padding-left: 2em;
+
+@media (max-width: 600px){
+    body{
+    background-color: purple;
+        }
+    .p3{
+    padding-left: 2em;
+        }
 }
 
-.p4{
-padding-left: 2em;
+@media (max-width: 800px){
+    body{
+    background-color: blue;
+        }
+    .p4{
+    padding-left: 2em;
+        }   
 }
 
-.p5{
-padding-left: 2em;
+@media (max-width: 900px){
+    body{
+    background-color: brown;
+        }
+    .p5{
+    padding-left: 2em;
+        }
 }
 
-.p6{
-padding-left: 2em;
+@media (max-width: 1000px){
+    body{
+    background-color: grey;
+        }
+    .p6{
+    padding-left: 2em;
+        }
 }
-
 
 
