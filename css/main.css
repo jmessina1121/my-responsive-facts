@@ -48,7 +48,7 @@ body {
         }   
 }
 
-@media (max-width: 900px){
+@media (max-width: 1000px){
     body{
     background-color: brown;
         }
@@ -57,7 +57,7 @@ body {
         }
 }
 
-@media (max-width: 1000px){
+@media (max-width: 1300px){
     body{
     background-color: grey;
         }
