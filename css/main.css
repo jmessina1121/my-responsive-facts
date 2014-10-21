@@ -11,8 +11,11 @@ body {
   line-height: 1.45;
   color: black;
 }
-@media (min-width: 630px){
 
+@media (max-width: 630px){
+.body {
+background-color: red;
+}
 .p1 {
 padding-left: 2em;
 }
