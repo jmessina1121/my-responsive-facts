@@ -1,8 +1,4 @@
-html,body {
-  margin: 0;
-  padding: 0;
-  
-}
+
 body {
   background-color: yellow;
   font-family: 'Georgia', serif;
@@ -11,6 +7,7 @@ body {
   line-height: 1.45;
   color: black;
 }
+
 .p1{
 padding-left: 2em
 }
@@ -29,6 +26,7 @@ display:none
 .p6{
 display:none
 }
+
 @media (max-width: 0px){
     body{
     background-color: red;
